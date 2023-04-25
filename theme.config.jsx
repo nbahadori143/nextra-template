@@ -1,12 +1,12 @@
 export default {
-    logo: <span>Grapes JS</span>,
+    logo: <span>Nextra Template</span>,
     footer: {
-        text: 'Grapes JS 2022',
+        text: 'Nextra Template 2023',
     },
     project: {
-        link: 'https://github.com/siwalikm/demo-nextra-2.0'
+        link: 'https://github.com/nbahadori143/nextra-template'
     },
-    docsRepositoryBase: 'https://github.com/siwalikm/demo-nextra-2.0/blob/main/',
+    docsRepositoryBase: 'https://github.com/nbahadori143/nextra-template/blob/main/',
     chat: {
         link: 'https://discord.gg'
     }
